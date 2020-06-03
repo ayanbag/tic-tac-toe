@@ -5,6 +5,7 @@
 /build
 /.firebaserc
 /firebase.json
+/.firebase
 # testing
 /coverage
 
