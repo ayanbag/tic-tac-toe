@@ -1,0 +1,23 @@
+body {
+    font-family: 'Avenir', 'Helvetica Neue', 'Arial', sans-serif;
+}
+
+.main-wrapper,
+.app-wrapper {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.app-wrapper {
+    animation: 0.5s fadeIn ease-out;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}

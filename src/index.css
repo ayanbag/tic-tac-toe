@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    /* small background */
+    background: url(./images/small-bg.svg) top 10% right 20% no-repeat / cover;
+    background-attachment: fixed;
+    user-select: none;
+}
