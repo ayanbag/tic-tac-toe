@@ -1,7 +1,7 @@
 # Tic Tac Toe
 An unbeatable tic-tac-toe with ReactJS using Minimax Algorithm
 
-Read my [blog](https://ayanbag.com/unbeatable-tic-tac-toe-with-minimax-algorithm)
+Read my [blog](https://ayanbag.com/unbeatable-tic-tac-toe-with-minimax-algorithm) to know more about minimax algorithm.
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
